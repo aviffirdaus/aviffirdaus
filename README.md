@@ -63,10 +63,4 @@
 
 ---
 
-## 🤝 Open To
-
-- Full-time Laravel Backend / Full-Stack roles
-- Freelance web application projects
-- Collaboration on open source Laravel packages
-
 📫 Reach me: **[mangupura12@gmail.com]**
